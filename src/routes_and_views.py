@@ -29,7 +29,7 @@ def flask_image():
 def index():
     md = """
 <p align="center">
-    <img src="/.images/job.png" alt="Logo da Aplicação" width="800"/>
+    <img src="/.images/job.png" alt="Logo da Aplicação" width="500"/>
 </p>
 <h2 align="center">
     Boas-vindas ao Job Insights<br><br>
