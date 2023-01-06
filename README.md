@@ -9,7 +9,7 @@
 
   <br>
 
-  🎯 O objetivo foi implementar analises a partir de um conjundo de dados sobre empregose escrever testes para a implemenmtação de uma nálise de dados.
+  🎯 O objetivo foi implementar analises a partir de um conjunto de dados sobre empregos e escrever testes para a implemenmtação de uma análise de dados.
 
 </details>
 
